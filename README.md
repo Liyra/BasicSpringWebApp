@@ -23,6 +23,6 @@ Launch tomcat (script.py up), build and deploy (script.py build, script.py deplo
 
 ### Rights
 
-The frontend is based on templates, https://html5up.net/aerial for the main page and the example of carousel from the Bootstrap documentation https://getbootstrap.com/docs/4.0/components/carousel/.
+The frontend is based on templates, https://html5up.net/aerial for the main page (LICENSE_index_theme.txt and README_index_theme.txt) and the example of carousel from the Bootstrap documentation https://getbootstrap.com/docs/4.0/components/carousel/.
 
 The images are labeled for reuse (from publicdomainpictures.net and wikipedia.org).
