@@ -1,6 +1,6 @@
 ## BasicSpringWebApp
 
-This is a basic spring web application build from scratch with Intellij.
+This is a basic Spring web application in java build from scratch with Intellij, with Maven and Bootstrap.
 The dependancies are Maven 3.5.2, tomcat 8.5.24.
 
 The script.py file is a script allowing quicker deployment on tomcat. It has a check option where it tells you what step you forgot (ie. environment variables not set up)
