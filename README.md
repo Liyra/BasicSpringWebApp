@@ -3,7 +3,7 @@
 This is a basic Spring web application in java build from scratch with Intellij, with Maven and Bootstrap.
 The dependancies are Maven (I used 3.5.2) and Tomcat (I used 8.5.24).
 
-The script.py file is a script allowing quicker deployment on tomcat. It has a check option where it tells you what step you forgot (ie. environment variables not set up)
+The script.py file is a script allowing quicker deployment on tomcat. It has a check option where it tells you what step you forgot (ie. environment variables not set up). This script should work only on windows.
 
 ### Setup
 
